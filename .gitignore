@@ -1,0 +1,10 @@
+.DS_Store
+target/
+.mvn
+.settings
+.project
+*.classpath
+.apt_generated/
+.factorypath
+*.iml
+*.idea
